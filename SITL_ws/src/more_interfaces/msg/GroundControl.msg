@@ -1,0 +1,3 @@
+float32 switchAGLalt
+float32 switchAGLmargin
+int armingbutton
