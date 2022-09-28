@@ -1,0 +1,9 @@
+bool small_marker_detected
+bool big_marker_detected
+int32[8] small_marker_corners
+int32[8] big_marker_corners
+float32 x_avg
+float32 y_avg
+int32 frame_height
+int32 frame_width
+int32 heartbeat
